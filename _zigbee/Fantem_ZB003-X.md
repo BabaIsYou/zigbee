@@ -5,9 +5,9 @@ vendor: Fantem
 title: Multi Sensor 4 in 1
 category: sensor
 supports: occupancy, temperature, humidity, illuminance, tamper, batterypct
-zigbeemodel: ['TS0202','_TZ3210_rxqls8v0', '_TZ3210_zmy9hjay']
+zigbeemodel: ['TS0202','_TZ3210_rxqls8v0', '_TZ3210_zmy9hjay', _TZ3210_wuhzzfqg]
 compatible: [zha,z2m,deconz]
-deconz: 4511
+deconz: 7007
 mlink: 
 link: https://www.aliexpress.com/item/1005001878974427.html
 link2: 
