@@ -7,6 +7,7 @@ category: bulb
 supports: brightness
 zigbeemodel: ['TRADFRIbulbE14WSglobeopal470lm']
 compatible: [z2m,deconz,zha]
+deconz: 7017
 mlink: 
 link: 
 link2: 
